@@ -31,5 +31,5 @@ In addition to Fridays having the highest proportion of delays, they also have t
 
 ## Key Insights for Presentation
 
-> From the analysis, I found the best times for flight to be on Wednesdays, epecially  in April during the mid of the month and also from 23rd to the 29th days of the month using airline with code F9. Flights on Tuesdays and Thursdays are also the second option as they are more likely to be on time.
+> From the analysis, I found the best times for flight to be on Wednesdays, especially  in April during the mid of the month and also from 23rd to the 29th days of the month using airline with code F9. Flights on Tuesdays and Thursdays are also the second option as they are more likely to be on time.
 > I also observed that the worst times for flight are on Fridays, in February, during the beginning of the month especially on the 4th day and using airline with code AA. This is because Fridays have the highest rate of cancellations and late aircraft delays, and Arline AA had the worst cancellations. A higher delay time was common to flights with an air time of less than 300 minutes.
